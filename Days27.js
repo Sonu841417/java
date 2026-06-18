@@ -13,4 +13,4 @@ async function getImage() {
         console.log("error - " , e);
         return "/" ;
     }
-}
+} 
